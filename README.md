@@ -4,6 +4,7 @@
 [![npm](https://img.shields.io/npm/l/react-image-picker.svg)](http://opensource.org/licenses/MIT)
 
 # React Image Picker
+Fork from react-image-picker
 The image picker is used for selecting single or multiple images from gallery.
 
 [Live Demo](https://bagongkia.github.io/react-image-picker/)
@@ -12,6 +13,7 @@ The image picker is used for selecting single or multiple images from gallery.
 - jQuery Free
 - Single or multiple images selection
 - Styling (...in progress)
+- onError handler for img tag
 - ...
 
 ## Installation
